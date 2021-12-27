@@ -1,0 +1,210 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "title": "mouse",
+      "price": "230",
+      "desc": "a good mouse",
+      "owner": "sdf",
+      "time": "2021年12月16日",
+      "vacant": false,
+      "buyer": "et"
+    },
+    {
+      "id": "3",
+      "title": "monitor",
+      "price": "3888",
+      "desc": "a decent monitor",
+      "owner": "sdf",
+      "time": "2021年12月16日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "id": "4",
+      "title": "monitor",
+      "price": "3888",
+      "desc": "a decent monitor 超棒的显示器",
+      "owner": "et",
+      "time": "2021年12月15日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "iPhoneXXX",
+      "price": "4999",
+      "owner": "et",
+      "desc": "a decent mobile phone ",
+      "id": "5xZVEQF",
+      "time": "2021年12月16日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "laptop",
+      "price": 7888,
+      "owner": "awe",
+      "desc": "a good laptop",
+      "id": "fdgns_s",
+      "time": "2021年12月16日",
+      "vacant": false,
+      "buyer": "et"
+    },
+    {
+      "title": "laptop",
+      "price": 4546,
+      "owner": "et",
+      "desc": "et's laptop",
+      "id": "xogVfl8",
+      "time": "2021年12月15日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "coat",
+      "price": 456,
+      "owner": "et",
+      "desc": "et's coat",
+      "id": "fQ06cHc",
+      "time": "2021年12月16日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "thinkpad",
+      "price": 9988,
+      "owner": "et",
+      "desc": "a good computer",
+      "id": "Bc5PeyY",
+      "time": "2021年12月13日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "mobile",
+      "price": 8888,
+      "owner": "et",
+      "desc": "a good mobile",
+      "id": "guToOIJ",
+      "time": "2021年12月13日",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "一袋糖果",
+      "price": 20,
+      "owner": "et",
+      "desc": "一袋好吃的糖果",
+      "time": "2021年11月16日",
+      "id": "nemEnxN",
+      "vacant": true,
+      "buyer": ""
+    },
+    {
+      "title": "棒球帽",
+      "price": 343,
+      "owner": "et",
+      "desc": "mlb棒球帽",
+      "time": "2021年11月24日",
+      "vacant": true,
+      "buyer": "",
+      "id": "5eyXIdd"
+    }
+  ],
+  "requirements": [
+    {
+      "id": "2",
+      "title": "数字图像处理",
+      "price": "230",
+      "desc": "求教材数字图像处理",
+      "owner": "sdf",
+      "time": "2021年12月26日",
+      "vacant": false,
+      "buyer": "et"
+    },
+    {
+      "id": "4",
+      "title": "mouse",
+      "price": "230",
+      "desc": "a good mouse",
+      "owner": "et",
+      "time": "2021年12月26日",
+      "vacant": false,
+      "buyer": "et"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "awe",
+      "email": "awe@163.com",
+      "password": "awe",
+      "ratings": [
+        3.7,
+        3.4,
+        4.3,
+        4.1
+      ],
+      "comments": {
+        "et": "一个好买家",
+        "sdf": "实用的咖啡杯",
+        "awe": "诚信商家",
+        "abb": "售后很好"
+      }
+    },
+    {
+      "id": "2",
+      "name": "et",
+      "email": "et@gmail.com",
+      "password": "et",
+      "ratings": [
+        4.1,
+        3.4,
+        4.3,
+        4.1
+      ],
+      "comments": {
+        "et": "一个好买家",
+        "sdf": "实用的咖啡杯",
+        "awe": "诚信商家",
+        "abb": "售后很好"
+      }
+    },
+    {
+      "id": "3",
+      "name": "sdf",
+      "email": "sdf@gmail.com",
+      "password": "sdf",
+      "ratings": [
+        4.5,
+        4.8,
+        4.3,
+        4.9
+      ],
+      "comments": {
+        "et": "good",
+        "sdf": "实用的咖啡杯",
+        "awe": "诚信商家",
+        "abb": "售后很好"
+      }
+    },
+    {
+      "name": "dbb",
+      "email": "dbb@gmail.com",
+      "password": "dbb",
+      "id": "4",
+      "ratings": [
+        4.5,
+        3.4,
+        4.3,
+        4.5
+      ],
+      "comments": {
+        "et": "一个好买家",
+        "sdf": "实用的咖啡杯",
+        "awe": "诚信商家",
+        "abb": "售后很好"
+      }
+    }
+  ]
+}

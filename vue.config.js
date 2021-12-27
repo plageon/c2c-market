@@ -1,0 +1,13 @@
+module.exports={
+    //http://47.106.74.88:9091
+    devServer:{
+        proxy:{
+            '^/api':{
+                target:'http://localhost:5050/',
+                changeOrigin:true,
+                logLevel:'debug',
+                pathRewrite:{'^/api':'/'},
+            },
+        }
+    }
+}
